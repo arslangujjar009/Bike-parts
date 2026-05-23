@@ -1,0 +1,275 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>3D CD70 Bike Parts</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<!-- NAVBAR -->
+<nav>
+<h1 class="logo">CD70</h1>
+<ul>
+<li><a href="#">Home</a></li>
+<li><a href="#">Parts</a></li>
+<li><a href="#">Shop</a></li>
+<li><a href="03091969802">Contact</a></li>
+</ul>
+</nav>
+
+<!-- HERO -->
+<section class="hero">
+<div class="hero-content">
+<h1>Cd Bike Parts</h1>
+<p>CD 70 bike Website</p>
+</div>
+
+</section>
+
+<!-- PARTS -->
+<section class="parts">
+
+<h1 class="title">Bike Parts</h1>
+
+<div class="parts-container">
+
+<!-- ================= ENGINE / BASIC ================= -->
+
+<div class="card">
+<div class="glow"></div>
+<img src="OIP (1).webp">
+<div class="card-content">
+<h2><i class="fa-solid fa-gears"></i> Kick </h2>
+<p>Premium heavy quality kick lever.</p>
+<span class="price">Rs.450</span>
+<a href="#" class="buy">Buy Now</a>
+</div>
+</div>
+
+<div class="card">
+<div class="glow"></div>
+<img src="meter body.jpg">
+<div class="card-content">
+<h2><i class="fa-solid fa-gauge"></i> Bike Meter</h2>
+<p>Original speed meter with stylish look.</p>
+<span class="price">Rs.250</span>
+<a href="#" class="buy">Buy Now</a>
+</div>
+</div>
+
+<div class="card">
+<div class="glow"></div>
+<img src="injen oil.jpg">
+<div class="card-content">
+<h2><i class="fa-solid fa-link"></i> injin oil</h2>
+<p>Strong chain sprocket for smooth riding.</p>
+<span class="price">Rs.700</span>
+<a href="#" class="buy">Buy Now</a>
+</div>
+</div>
+
+<div class="card">
+<div class="glow"></div>
+<img src="back lite.jpg">
+<div class="card-content">
+<h2><i class="fa-solid fa-lightbulb"></i> back Light</h2>
+<p>LED stylish back light for CD70 bike.</p>
+<span class="price">Rs.300</span>
+<a href="#" class="buy">Buy Now</a>
+</div>
+</div>
+
+<div class="card">
+<div class="glow"></div>
+<img src="Brake shoo.jpg">
+<div class="card-content">
+<h2><i class="fa-solid fa-screwdriver-wrench"></i>Brake shoo </h2>
+<p>Rear brake arm stopper for stable braking.</p>
+<span class="price">Rs.400</span>
+<a href="#" class="buy">Buy Now</a>
+</div>
+</div>
+<!-- ================= ENGINE PARTS ================= -->
+
+<div class="card">
+<div class="glow"></div>
+<img src="timing chain.jpg">
+<div class="card-content">
+<h2><i class="fa-solid fa-link"></i> timing Chain (Genuine)</h2>
+<p>CD70 timing chain kit genuine quality.</p>
+<span class="price">Rs.500</span>
+<a href="#" class="buy">Buy Now</a>
+</div>
+</div>
+
+<div class="card">
+<div class="glow"></div>
+<img src="Cam Shaft.jpg">
+<div class="card-content">
+<h2><i class="fa-solid fa-cog"></i> Cam Shaft (Genuine)</h2>
+<p>Head cam for CD70 2013+ models.</p>
+<span class="price">Rs.650</span>
+<a href="#" class="buy">Buy Now</a>
+</div>
+</div>
+
+<div class="card">
+<div class="glow"></div>
+<img src="carborate.jpg">
+<div class="card-content">
+<h2><i class="fa-solid fa-oil-can"></i> Carburetor</h2>
+<p>Complete carburetor CD70 2012 models.</p>
+<span class="price">Rs.2500</span>
+<a href="#" class="buy">Buy Now</a>
+</div>
+</div>
+
+<div class="card">
+<div class="glow"></div>
+<img src="cdi.jpg">
+<div class="card-content">
+<h2><i class="fa-solid fa-bolt"></i> CDI Unit</h2>
+<p>Ignition CDI for CD70 bikes.</p>
+<span class="price">Rs.400</span>
+<a href="#" class="buy">Buy Now</a>
+</div>
+</div>
+
+<!-- ================= MORE PARTS ================= -->
+
+<div class="card">
+<div class="glow"></div>
+<img src="pistom kit.jpg">
+<div class="card-content">
+<h2><i class="fa-solid fa-gear"></i> Piston Kit</h2>
+<p>Complete engine piston kit.</p>
+<span class="price">Rs.800</span>
+<a href="#" class="buy">Buy Now</a>
+</div>
+</div>
+
+<div class="card">
+<div class="glow"></div>
+<img src="plug.jpg">
+<div class="card-content">
+<h2><i class="fa-solid fa-bolt"></i> Spark Plug</h2>
+<p>High performance spark plug.</p>
+<span class="price">Rs.450</span>
+<a href="#" class="buy">Buy Now</a>
+</div>
+</div>
+
+<div class="card">
+<div class="glow"></div>
+<img src="break.webp">
+<div class="card-content">
+<h2><i class="fa-solid fa-car"></i> Brake leaver</h2>
+<p>Strong .</p>
+<span class="price">Rs.150</span>
+<a href="#" class="buy">Buy Now</a>
+</div>
+</div>
+
+<div class="card">
+<div class="glow"></div>
+<img src="OIP (3).jpg">
+<div class="card-content">
+<h2><i class="fa-solid fa-wind"></i> Air Filter</h2>
+<p>Clean air filter for engine.</p>
+<span class="price">Rs.400</span>
+<a href="#" class="buy">Buy Now</a>
+</div>
+</div>
+
+<div class="card">
+<div class="glow"></div>
+<img src="swith,jpg">
+<div class="card-content">
+<h2><i class="fa-solid fa-hand"></i> chabi swith set</h2>
+<p>Comfortable  wirs.</p>
+<span class="price">Rs.350</span>
+<a href="#" class="buy">Buy Now</a>
+</div>
+</div>
+
+<div class="card">
+<div class="glow"></div>
+<img src="magnet coil.webp">
+<div class="card-content">
+<h2><i class="fa-solid fa-eye"></i> magent coil </h2>
+<p>magnet set.</p>
+<span class="price">Rs.900</span>
+<a href="#" class="buy">Buy Now</a>
+</div>
+</div>
+
+<div class="card">
+<div class="glow"></div>
+<img src="break.webp">
+<div class="card-content">
+<h2><i class="fa-solid fa-gas-pump"></i>break.webp  </h2>
+<p>Durable fuel control tap.</p>
+<span class="price">Rs.500</span>
+<a href="#" class="buy">Buy Now</a>
+</div>
+</div>
+
+<!-- ================= DRIVETRAIN ================= -->
+
+<div class="card">
+<div class="glow"></div>
+<img src="gear liver.jpg">
+<div class="card-content">
+<h2><i class="fa-solid fa-gear"></i> gear</h2>
+<p>Genuine chain protection cover.</p>
+<span class="price">Rs.1250</span>
+<a href="#" class="buy">Buy Now</a>
+</div>
+</div>
+
+<div class="card">
+<div class="glow"></div>
+<img src="atlashonda..jpg">
+<div class="card-content">
+<h2><i class="fa-solid fa-gears"></i> Chain Sprocket (Genuine)</h2>
+<p>Atlas Honda sprocket kit.</p>
+<span class="price">Rs.2850</span>
+<a href="#" class="buy">Buy Now</a>
+</div>
+</div>
+
+<div class="card">
+<div class="glow"></div>
+<img src="OIP (1).jpg">
+<div class="card-content">
+<h2><i class="fa-solid fa-oil-can"></i> ClutchSet</h2>
+<p>CD70 clutch  plates.</p>
+<span class="price">Rs.1350</span>
+<a href="#" class="buy">Buy Now</a>
+</div>
+</div>
+
+<div class="card">
+<div class="glow"></div>
+<img src="OIP (2).jpg">
+<div class="card-content">
+<h2><i class="fa-solid fa-oil-can"></i> chain coveer</h2>
+<p>CD70 clutch  leaver.</p>
+<span class="price">Rs.930</span>
+<a href="#" class="buy">Buy Now</a>
+<a href="#" class="buy">Discount</a>
+</div>
+</div>
+
+
+
+</section>
+
+<!-- FOOTER -->
+<footer>
+© 2026 CD70 3D Bike Parts Website
+</footer>
+
+</body>
+</html>
